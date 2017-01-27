@@ -10,6 +10,8 @@ It is where you add files that you want to go into a commit and then the whole s
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+You can keep track of what you’ve changed in your working directory in the staging area
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
