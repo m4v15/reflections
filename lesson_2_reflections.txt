@@ -15,6 +15,8 @@ You can keep track of what you’ve changed in your working directory in the sta
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When making an alternate version of your program but you want to keep the master version that you can show people or incase your alternate version takes some time to get to work
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
