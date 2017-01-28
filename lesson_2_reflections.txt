@@ -30,3 +30,5 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 
 Much quicker obviously so saves a lot of time but git cannot logically understand when lines are changed in both versions which line to keep so must ask us
+
+TEST
