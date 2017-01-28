@@ -24,5 +24,7 @@ Pictures are easier to understand than words
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+You combine all of the commits on to one branch - whichever branch is currently checked out. Represent it in that diagram to visualise the parent child structure of the commits
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
